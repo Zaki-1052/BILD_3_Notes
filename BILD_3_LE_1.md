@@ -1,11 +1,11 @@
 ---
-course: BILD 1
+course: BILD 3
 type: lecture
 lecture_num: 1
 date: 3/31
 ---
 
-# BILD 1 Lecture 1
+# BILD 3 Lecture 1
 - ## 3/31
 
 ## Content
