@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd9a1f81dedbdd0a",
+            "id": "4044c7e629dd3a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BILD_3_LE_1.md",
+                "file": "BILD_3_LE_2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BILD_3_LE_1"
+              "title": "BILD_3_LE_2"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e0544bba040aaec",
@@ -231,11 +232,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd9a1f81dedbdd0a",
+  "active": "65b2e9537c45ceab",
   "lastOpenFiles": [
-    "_templates/lecture_template.md.md",
     "BILD_3_LE_1.md",
+    "BILD_3_LE_2.md",
     "Untitled.md",
+    "_templates/lecture_template.md.md",
     "Old/BILD_1_LE_1.md",
     "Old/BILD_1_LE_10.md",
     "Old",
@@ -272,7 +274,6 @@
     "CSE_8A/Lectures/CSE_8A_LE_20.md",
     "CSE_8A/CSE_8A_Work_ToC.md",
     "CSE_8A/Projects/CSE_8A_Project_1.md",
-    "CSE_8A/Projects/CSE_8A_Project_2.md",
     "_templates",
     "BILD_5/Lectures",
     "BILD_5",
