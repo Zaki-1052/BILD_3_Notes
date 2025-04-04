@@ -12,5 +12,6 @@
   "obsidian-metatemplates",
   "templater-obsidian",
   "obsidian-state-switcher",
-  "quickadd"
+  "quickadd",
+  "obsidian-phylotree-plugin"
 ]

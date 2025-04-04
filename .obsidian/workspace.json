@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BILD_3_LE_2.md",
+                "file": "BILD_3_LE_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BILD_3_LE_2"
+              "title": "BILD_3_LE_1"
+            }
+          },
+          {
+            "id": "bd82005e9d9811bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_3_LE_3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_3_LE_3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e0544bba040aaec",
@@ -232,10 +256,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b2e9537c45ceab",
+  "active": "bd82005e9d9811bc",
   "lastOpenFiles": [
     "BILD_3_LE_1.md",
     "BILD_3_LE_2.md",
+    "BILD_3_LE_3.md",
+    "attachments/2 Large.jpeg",
+    "attachments/3.JPG",
+    "attachments/2.JPG",
+    "attachments/1.JPG",
+    "attachments/4.JPG",
+    "attachments",
     "Untitled.md",
     "_templates/lecture_template.md.md",
     "Old/BILD_1_LE_1.md",
@@ -260,11 +291,6 @@
     "attachments/diffusionTypes.png",
     "attachments/phospholipidBilayer.png",
     "Old/README.md",
-    "attachments/bilayerImage.png",
-    "attachments/phospholipidBilayers.png",
-    "attachments/phospholipidDiagram.png",
-    "attachments/phospholipidImage.png",
-    "attachments/sideChainExample.png",
     "attachments",
     "_templates",
     "BILD_5/Lectures/BILD_5_Lectures.md",
@@ -272,13 +298,10 @@
     "_templates/cse_87_template.md.md",
     "CSE_8A/Lectures/CSE_8A_Lectures.md",
     "CSE_8A/Lectures/CSE_8A_LE_20.md",
-    "CSE_8A/CSE_8A_Work_ToC.md",
-    "CSE_8A/Projects/CSE_8A_Project_1.md",
     "_templates",
     "BILD_5/Lectures",
     "BILD_5",
     "Projects",
-    "PAs",
-    "CSE_87_SE"
+    "PAs"
   ]
 }
