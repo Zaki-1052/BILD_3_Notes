@@ -39,6 +39,8 @@ date: 4/4
 	- produce the pattern of descent with modification.
 - Natural selection..
 
+![[pattern.png]]
+
 ---
 
 Previous: [BILD 3 Lecture 2](BILD_1_LE_2.md).

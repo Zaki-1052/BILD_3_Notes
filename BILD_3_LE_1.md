@@ -17,7 +17,6 @@ date: 3/31
 	- Evolution: 
 		- where they came from and how they change
 ```newick
-background=white,color=white
 ((Dragonfly)Ancestor1,((Macaw,Hummingbirds)Birds,(Trout)Fish)Vertebrates);
 ```
 ## Board Pictures

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BILD_3_LE_1.md",
+                "file": "BILD_3_LE_3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BILD_3_LE_1"
+              "title": "BILD_3_LE_3"
             }
           },
           {
-            "id": "bd82005e9d9811bc",
+            "id": "a265dfc12e02e3c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +55,7 @@
               "title": "BILD_3_LE_3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Ancestor1\" OR \"Dragonfly\" OR \"Vertebrates\" OR \"Birds\" OR \"Macaw\" OR \"Hummingbirds\" OR \"Fish\" OR \"Trout\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,18 +255,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd82005e9d9811bc",
+  "active": "4044c7e629dd3a18",
   "lastOpenFiles": [
+    "attachments/pattern.png",
     "BILD_3_LE_1.md",
-    "BILD_3_LE_2.md",
     "BILD_3_LE_3.md",
+    "Discussion.md",
+    "BILD_3_LE_2.md",
     "attachments/2 Large.jpeg",
     "attachments/3.JPG",
     "attachments/2.JPG",
     "attachments/1.JPG",
     "attachments/4.JPG",
     "attachments",
-    "Untitled.md",
     "_templates/lecture_template.md.md",
     "Old/BILD_1_LE_1.md",
     "Old/BILD_1_LE_10.md",
