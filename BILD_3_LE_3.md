@@ -38,6 +38,8 @@ date: 4/4
 - Together, these evolutionary processes
 	- produce the pattern of descent with modification.
 - Natural selection..
+- Genetic drift:
+	- Genetic drift is a change in the frequency of an existing gene variant, an existing allele.
 
 ![[pattern.png]]
 
