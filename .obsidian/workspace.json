@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e0544bba040aaec",
@@ -329,7 +328,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b2e9537c45ceab",
+  "active": "2134d75a1c850083",
   "lastOpenFiles": [
     "BILD_3_LE_5.md",
     "BILD_3_LE_6.md",
