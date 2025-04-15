@@ -27,6 +27,7 @@ date: 4/11
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sloths and armadillos:<br>Modern species in a region resemble ancient species in that same region<br>**Principle of succession** | pecies are similar across time in a region because modern species are **descended with modification** from local ancestors.<br>Also: species go extinct. |
 | Seashells in the Andes Mountains, rising coastline:<br>Earth changes slowly.<br>Earth is old.                                    | There has been enough time for many tree branchings (**divergence**) to create an enormous tree of life and all of modern biodiversity.                  |
+|                                                                                                                                  |                                                                                                                                                          |
 - The forces observable today can create the massive structures we see around us, given enough time.
 - Therefore, **the Earth must be very old**
 - If the Earth can change slowly, maybe life can too.

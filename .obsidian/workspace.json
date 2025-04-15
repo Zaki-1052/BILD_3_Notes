@@ -109,6 +109,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Discussion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Discussion"
+            }
+          },
+          {
+            "id": "9fe861a1f829f88b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "BILD_3_LE_6.md",
                 "mode": "source",
                 "source": false,
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -328,12 +352,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2134d75a1c850083",
+  "active": "9fe861a1f829f88b",
   "lastOpenFiles": [
-    "BILD_3_LE_5.md",
-    "BILD_3_LE_6.md",
-    "BILD_3_LE_4.md",
+    "Untitled.md",
     "Discussion.md",
+    "BILD_3_LE_6.md",
+    "BILD_3_LE_5.md",
+    "BILD_3_LE_4.md",
     "BILD_3_LE_3.md",
     "attachments/pattern.png",
     "BILD_3_LE_1.md",
@@ -370,7 +395,6 @@
     "_templates",
     "BILD_5/Lectures/BILD_5_Lectures.md",
     "BILD_5/Lectures/BILD_5_LE_1.md",
-    "_templates/cse_87_template.md.md",
     "_templates",
     "BILD_5/Lectures",
     "BILD_5",
